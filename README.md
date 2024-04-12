@@ -1,5 +1,5 @@
 ### 1.Yushu earthquake
-Yushu earthquake data download link：[Baidu network disk](https://pan.baidu.com/s/1U2F-md4R3I3Rrcz3SWxk-g?pwd=2024)
+Yushu earthquake data download link：[Baidu network disk](https://pan.baidu.com/s/1spYBQ25puIJShv9hm3XFWA?pwd=7o87)
 
 ### 2.Earthquake in Mexico
 Mexico earthquake data download link：[Baidu network disk](https://pan.baidu.com/s/1U2F-md4R3I3Rrcz3SWxk-g?pwd=2024)
